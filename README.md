@@ -33,7 +33,7 @@ Users must be authenticated to submit donations (if protected).
 - JSON Web Tokens (JWT)
 - RESTful API
 - React (for frontend)
-- Tailwind CSS (optional)
+- Tailwind CSS 
 
 ## 🚀 Getting Started
 
