@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Coverage/test reports
+coverage/
+*.lcov
+
+# Build artifacts
+dist/
+build/
+
+# Database dump
+*.sqlite
+*.db
+dump.rdb
+
+# Optional: PM2 logs
+pids/
+*.pid
+*.seed
+
+# Optional: Docker artifacts
+*.tgz
+docker-compose.override.yml
